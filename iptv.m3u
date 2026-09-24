@@ -16,7 +16,7 @@ http://45.190.28.50/FOX_NEWS/index.m3u8
 #EXTINF:-1,FOX BUSINESS
 http://41.205.93.154/FOXBUSINESS/index.m3u8
 #EXTINF:-1,FOX NEWS
-https://tvsen6.aynaott.com/foxnews/index.m3u8
+http://4.30.180.36:8420/foxnews/index.m3u8?token=test
 #EXTINF:-1,DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1,ESPN
